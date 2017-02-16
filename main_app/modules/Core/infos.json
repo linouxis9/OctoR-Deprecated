@@ -1,0 +1,15 @@
+{
+  "name": "OctoR_Core",
+  "full_name": "OctoR Core",
+  "version": "0.1",
+  "Dependencies": {
+    "OctoR":"0.1"
+  },
+  "tasks": [
+    "Core_Main_Panel",
+    "Core_Register",
+    "Core_Login"
+  ],
+  "main_file": "modules.php",
+  "description": "OctoR Core Module"
+}
